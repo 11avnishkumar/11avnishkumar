@@ -1,11 +1,11 @@
 # AVNISH KUMAR
-<div style="display:flex;justify-content:center"
-<img  src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
+<div style="display:flex;justify-content:center">
+<img  width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
+<img  width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
 <div/>
 
 
-### Languages and Tools
+## Languages and Tools
 <div style="display:flex;justify-content:center"
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
