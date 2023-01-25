@@ -2,10 +2,11 @@
 ![cover-page](https://user-images.githubusercontent.com/90856122/214624659-974bc9c7-0e8d-4702-8746-0651455d0c69.png)
 
 ### HI THERE 👋, I'm AVNISH KUMAR
-<div style="display:flex;justify-content:center">
+
+### STATS
 <img  width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
 <img  width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
-<div/>
+
 
 
 ## Languages and Tools
