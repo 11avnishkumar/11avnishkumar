@@ -4,8 +4,8 @@
 ### HI THERE 👋, I'm AVNISH KUMAR
 
 ### STATS
-<img  width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
-<img  width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
+<img  width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
+<img  width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
 
 
 
