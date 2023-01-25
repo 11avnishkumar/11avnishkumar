@@ -1,4 +1,4 @@
-# AVNISH KUMAR
+# HI THERE 👋 AVNISH KUMAR
 <div style="display:flex;justify-content:center">
 <img  width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=11avnishkumar&show_icons=true&theme=radical"/>
 <img  width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11avnishkumar&layout=compact"/>
