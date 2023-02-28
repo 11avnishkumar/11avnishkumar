@@ -1,6 +1,3 @@
-
-![cover-page](https://user-images.githubusercontent.com/90856122/214624659-974bc9c7-0e8d-4702-8746-0651455d0c69.png)
-
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11avnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="11avnishkumar" /> </p>
