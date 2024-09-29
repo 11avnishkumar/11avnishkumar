@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Avnish</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11avnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="11avnishkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11avnishkumar" alt="11avnishkumar" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerce**
-
-- 🌱 I’m currently learning **Reactjs,Nodejs**
 
 - 💬 Ask me about **Reactjs,Javascript,java,cpp,c,python,html,css,tailwind,bootstrap**
 
